@@ -1,0 +1,11 @@
+/**
+ * postcss 配置
+ *
+ * https://github.com/michael-ciniawsky/postcss-load-config
+ */
+
+module.exports = {
+  plugins: {
+    autoprefixer: {}
+  }
+}
